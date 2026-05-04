@@ -49,7 +49,7 @@ npx expo start
 ![About](screenshots/about.png)
 
 ## Video Demo
-
+https://drive.google.com/drive/folders/16syDWHOFgkiF-sLA85BYaPTZWDPBYQpt?usp=sharing
 
 ## State Management
 
