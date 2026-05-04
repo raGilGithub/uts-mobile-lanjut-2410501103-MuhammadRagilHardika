@@ -50,7 +50,6 @@ npx expo start
 
 ## Video Demo
 
-https://youtube.com/ (isi link lu)
 
 ## State Management
 
