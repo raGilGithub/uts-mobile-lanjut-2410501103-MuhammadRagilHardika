@@ -67,7 +67,9 @@ Pada aplikasi ini saya menggunakan Context API untuk mengelola state favorit. Co
 
 - https://stackoverflow.com/
 
-- https://www.youtube.com/
+- https://youtu.be/3NaTLy94PzU?si=2LCxKibdnx-VO3WP
+
+- https://youtu.be/VtfrOPuW6LY?si=entBogC7dWVk7rgT
 
 - ChatGPT (OpenAI)
 
