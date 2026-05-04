@@ -20,7 +20,7 @@ Tema A: Resep Kita (katalog resep)
 ## Cara Menjalankan
 
 ```bash
-git clone [link repo]
+git clone [https://github.com/raGilGithub/uts-mobile-lanjut-2410501103-MuhammadRagilHardika]
 cd resep-kita
 npm install
 npx expo start
